@@ -2,7 +2,7 @@
 
 <img src="https://wallpapers.com/images/hd/legendary-pokemon-pictures-7yo7x0f1l2b2tu0r.jpg" width="500" height="300" alt="legendaries">
 
-Pokemon Challenge for the course Deep Learning Lab SA 2024-2025 @ USI
+Pokemon Challenge for the course Deep Learning Lab @ USI
 
 Rules of the challenge:
 
